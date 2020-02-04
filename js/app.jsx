@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import './../scss/style.scss';
-import Header from './Header.jsx';
+import Header from './header.jsx';
 import MainText from './MainText.jsx';
 import Gallery from './Gallery.jsx';
 import Footer from './Footer.jsx';
