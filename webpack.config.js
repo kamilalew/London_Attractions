@@ -13,8 +13,8 @@ module.exports = {
     },
     mode: "development",
     //devtool: "source-map",
-    // watch: process.env.NODE_ENV === 'dev',
-    watch: false,
+    watch: process.env.NODE_ENV === 'dev',
+    // watch: false,
     module: {
         rules: [
 
